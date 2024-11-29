@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Stack Template
 
 <img src='https://github.com/belferink1996/MERN-template/blob/images/images/mern.jpeg' alt='MERN banner' width='700' />
@@ -71,3 +72,6 @@ Open terminal #1 (backend)
 Open terminal #2 (frontend)
 > cd ./client<br />
 > npm start
+=======
+# mern_site
+>>>>>>> 982ffebbe3e328878b28699e151c1cfc9db6f1f8
